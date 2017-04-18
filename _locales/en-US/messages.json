@@ -1,0 +1,100 @@
+{
+    "LaTeXMLUrl_title": {
+        "message": "URL of LaTeXML Web service"
+    },
+    "LaTeXMLUrl_description": {
+        "message": "This preference contains the URL of the LaTeXML Web service to use for the LaTeX to MathML conversion."
+    },
+    "LaTeXMLPreload_title": {
+        "message": "LaTeXML preload list"
+    },
+    "LaTeXMLPreload_description": {
+        "message": "Default preload list to pass to the LaTeXML server."
+    },
+    "LaTeXMLMaxAttempts_title": {
+        "message": "Maximum number of attempts for LaTeXML"
+    },
+    "LaTeXMLMaxAttempts_description": {
+        "message": "The LaTeXML Web service may fail to convert the LaTeX input due to networking issue. This allows specifying a maximum number of attempts for each mathematical formula before giving up."
+    },
+    "LaTeXMLCache_title": {
+        "message": "Cache LaTeXML output"
+    },
+    "LaTeXMLCache_description": {
+        "message": "If this option is enabled, the add-on will cache the MathML output returned by LaTeXML. Note that disabling this option will clear the current cache."
+    },
+    "LaTeX_Delimiters_title": {
+        "message": "LaTeX with delimiters"
+    },
+    "LaTeX_Delimiters_description": {
+        "message": "This script handles the case where images have LaTeX source with delimiters as alt text and can be enumerated by a list of CSS selectors."
+    },
+    "LaTeX_Delimiters_option_selectors_title": {
+        "message": "CSS Selectors"
+    },
+    "LaTeX_Delimiters_option_selectors_description": {
+        "message": "A comma-separated list of CSS selectors to enumerate the img tags to convert."
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_title": {
+        "message": "Use the display attribute",
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_description": {
+        "message": "If this option is enabled, mathematical formulas with display delimiters will get attribute display='true'. Otherwise, they will only get attribute displaystyle='true'."
+    },
+    "LaTeX_Delimiters_option_preloadList_title": {
+        "message": "LaTeXML Preload list"
+    },
+    "LaTeX_Delimiters_option_preloadList_description": {
+        "message": "Preload list to pass to the LaTeXML server."
+    },
+    "LaTeX_NoDelimiters_title": {
+        "message": "LaTeX without delimiters"
+    },
+    "LaTeX_NoDelimiters_description": {
+        "message": "This script handles the case where images have LaTeX source without delimiters as alt text and can be enumerated by a list of CSS selectors."
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_title": {
+        "message": "CSS Selectors for inline equations"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_description": {
+        "message": "A comma-separated list of CSS selectors to enumerate the img tags to convert into inline equations."
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_title": {
+        "message": "CSS Selectors for inline equations in display style"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_description": {
+        "message": "A comma-separated list of CSS selectors to enumerate the img tags to convert into inline equations in display style."
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_title": {
+        "message": "CSS Selectors for display equations"
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_description": {
+        "message": "A comma-separated list of CSS selectors to enumerate the img tags to convert into display equations."
+    },
+    "LaTeX_NoDelimiters_option_preloadList_title": {
+        "message": "LaTeXML Preload list"
+    },
+    "LaTeX_NoDelimiters_option_preloadList_description": {
+        "message": "Preload list to pass to the LaTeXML server."
+    },
+    "addRulePanel_dir": {
+        "message": "ltr"
+    },"addRulePanel_addRule": {
+        "message": "Add an Image to MathML rule"
+    },
+    "addRulePanel_deleteRule": {
+        "message": "Delete the rule"
+    },
+    "addRulePanel_urlPatternLabel": {
+        "message": "URL Pattern"
+    },
+    "addRulePanel_scriptLabel": {
+        "message": "Script"
+    },
+    "addRulePanel_Cancel": {
+        "message": "Cancel"
+    },
+    "addRulePanel_OK": {
+        "message": "OK"
+    }
+}

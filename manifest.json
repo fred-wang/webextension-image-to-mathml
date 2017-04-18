@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Image to MathML",
+  "version": "0.4",
+  "description": "Try and convert images of mathematical formulas into MathML.",
+  "author": "Frédéric Wang",
+  "homepage_url": "https://github.com/fred-wang/webextension-image-to-mathml",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
+    "96": "icons/icon-96.png"
+  }
+}

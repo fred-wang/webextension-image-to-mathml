@@ -1,0 +1,101 @@
+{
+    "LaTeXMLUrl_title ": {
+        "message": "URL serviço LaTeXML Web"
+    },
+    "LaTeXMLUrl_description ": {
+        "message": "Essa preferencia possui a URL do serviço LaTeXML Web utilizado para a conversão de LaTeX em MathML."
+    },
+    "LaTeXMLPreload_title ": {
+        "message": "Lista pré-carregada do LaTeXML"
+    },
+    "LaTeXMLPreload_description ": {
+        "message": "Lista pré-carregada padrão a ser enviado ao servidor LaTeXML."
+    },
+    "LaTeXMLMaxAttempts_title ": {
+        "message": "Número máximo de tentativas ao LaTeXML"
+    },
+    "LaTeXMLMaxAttempts_description ": {
+        "message": "O serviço LaTeXML Web deve ter falhado ao converter a entrada LaTeX devido a problemas de conexão. Essa opção permite especificar o número máximo de tentativas em converter uma dada equação antes de desistir."
+    },
+    "LaTeXMLCache_title ": {
+        "message": "Cache de saída do LaTeXML"
+    },
+    "LaTeXMLCache_description ": {
+        "message": "Se essa opção estiver habilitada, a extensão irá salvar a saída MathML retornada pelo LaTeXML. Cuidado que desabilitar essa opção irá limpar o cache atual."
+    },
+    "LaTeX_Delimiters_title ": {
+        "message": "LaTeX com delimitadores"
+    },
+    "LaTeX_Delimiters_description ": {
+        "message": "O script cuida dos casos em que a imagem possui código LaTeX com delimitadores como texto alternativo e podem ser enumerados por uma lista de seletores CSS."
+    },
+    "LaTeX_Delimiters_option_selectors_title ": {
+        "message": "Selectores CSS"
+    },
+    "LaTeX_Delimiters_option_selectors_description ": {
+        "message": "Uma lista de valores separados por vírgula de seletores CSS para enumerar as tags img a serem convertidas."
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_title ": {
+        "message": "Utiliza o atribute display"
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_description ": {
+        "message": "Se essa opção estiver habilitada, fórmulas matemáticas com delimitadores em destaque irão receber o atributo display='true'. Caso contrário, eles irão receber apenas o atributo display='true'."
+    },
+    "LaTeX_Delimiters_option_preloadList_title ": {
+        "message": "Lista pre-carregada do LaTexML"
+    },
+    "LaTeX_Delimiters_option_preloadList_description ": {
+        "message": "Lista pre-carregada a ser enviada ao servidor LaTeXML."
+    },
+    "LaTeX_NoDelimiters_title ": {
+        "message": "LaTeX sem delimitadores"
+    },
+    "LaTeX_NoDelimiters_description ": {
+        "message": "Esse script cuida dos casos em que a imagem possui código LaTeX sem delimitadores como texto alternativo e pode ser enumerado por uma lista de seletores CSS."
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_title ": {
+        "message": "Seletores CSS para equações na mesma linha"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_description ": {
+        "message": "Uma lista de valores separados por vírgula de seletores CSS para enumerar as tags img que serão convertidas em equações na mesma linha."
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_title ": {
+        "message": "Seletor CSS para equações com estilo na mesma linha"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_description ": {
+        "message": "Uma lista de valores separados por vírgula de seletores CSS para enumerar as tags img que serão convertidas em equações com estilo na mesma linha."
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_title ": {
+        "message": "Seletor CSS para equações em destaque"
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_description ": {
+        "message": "Uma lista de valores separados por vírgula de seletores CSS para enumerar as tags img que serão convertidas em equações em destaque."
+    },
+    "LaTeX_NoDelimiters_option_preloadList_title ": {
+        "message": "Lista pre-carregada do LaTeXML"
+    },
+    "LaTeX_NoDelimiters_option_preloadList_description ": {
+        "message": "Lista pre-carregada a ser enviada ao servidor LaTeXML."
+    },
+    "addRulePanel_dir ": {
+        "message": "ltr"
+    },
+    "addRulePanel_addRule ": {
+        "message": "Adiciona uma imagem as regras de MathML"
+    },
+    "addRulePanel_deleteRule ": {
+        "message": "Remove regra."
+    },
+    "addRulePanel_urlPatternLabel ": {
+        "message": "Padrão de URL"
+    },
+    "addRulePanel_scriptLabel ": {
+        "message": "Script"
+    },
+    "addRulePanel_Cancel ": {
+        "message": "Cancelar"
+    },
+    "addRulePanel_OK ": {
+        "message": "Aceitar"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "LaTeXMLUrl_title ": {
+        "message": "URL du service Web LaTeXML"
+    },
+    "LaTeXMLUrl_description ": {
+        "message": "Cette option contient l'URL du service Web LaTeXML à utuliser pour la conversion de LaTeX vers MathML."
+    },
+    "LaTeXMLPreload_title ": {
+        "message": "Liste de préchargement de LaTeXML"
+    },
+    "LaTeXMLPreload_description ": {
+        "message": "Liste de préchargement par défault passée au serveur LaTeXML."
+    },
+    "LaTeXMLMaxAttempts_title ": {
+        "message": "Nombre maximum de tentatives pour LaTeXML"
+    },
+    "LaTeXMLMaxAttempts_description ": {
+        "message": "Le service Web LaTeXML peut ne pas convertir l'entrée LaTeX à cause de problème de réseau. Cette option permet de spécifier le nombre maximum de tentatives pour chaque formule mathématique avant d'abandonner."
+    },
+    "LaTeXMLCache_title ": {
+        "message": "Cacher la sortie LaTeXML"
+    },
+    "LaTeXMLCache_description ": {
+        "message": "Si cette option est activée, l'extension utilisera un cache pour la sortie MathML renvoyée par LaTeXML. Notez que désactiver cette option effacera le cache courant."
+    },
+    "LaTeX_Delimiters_title ": {
+        "message": "LaTeX avec des délimiteurs"
+    },
+    "LaTeX_Delimiters_description ": {
+        "message": "Ce script gère le cas où les images ont le code LaTeX avec des délimiteurs en tant que le texte alternatif et peuvent être énumérées par une liste de sélecteurs CSS."
+    },
+    "LaTeX_Delimiters_option_selectors_title ": {
+        "message": "Sélecteurs CSS"
+    },
+    "LaTeX_Delimiters_option_selectors_description ": {
+        "message": "Une liste de CSS selecteurs séparés par des virgules pour énumérer les balises img à convertir."
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_title ": {
+        "message": "Utiliser l'attribut display"
+    },
+    "LaTeX_Delimiters_option_useDisplayAttribute_description ": {
+        "message": "Si cette option est activée, les formules mathématiques avec des délimiteurs pour le mode 'display' auront l'attribut display='true'. Dans le cas contraire, elles auront l'attribut displaystyle='true'."
+    },
+    "LaTeX_Delimiters_option_preloadList_title ": {
+        "message": "Liste de préchargement de LaTeXML"
+    },
+    "LaTeX_Delimiters_option_preloadList_description ": {
+        "message": "Liste de préchargement par défault passée au serveur LaTeXML."
+    },
+    "LaTeX_NoDelimiters_title ": {
+        "message": "LaTeX sans délimiteurs"
+    },
+    "LaTeX_NoDelimiters_description ": {
+        "message": "Ce script gère le cas où les images ont le code LaTeX sans délimiteurs en tant que texte alternatif et peuvent être énumérées par une liste de sélecteurs CSS."
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_title ": {
+        "message": "Sélecteurs CSS pour les formules 'inline'"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInline_description ": {
+        "message": "Une liste de CSS selecteurs séparés par des virgules pour énumérer les balises img à convertir en formules 'inline'"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_title ": {
+        "message": "Sélecteurs CSS pour les formules 'inline' avec style 'display'"
+    },
+    "LaTeX_NoDelimiters_option_selectorsInlineDisplayStyle_description ": {
+        "message": "Une liste de CSS selecteurs séparés par des virgules pour énumérer les balises img à convertir en formules 'inline' avec style 'display'"
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_title ": {
+        "message": "Sélecteurs CSS pour les formules 'display'"
+    },
+    "LaTeX_NoDelimiters_option_selectorsDisplay_description ": {
+        "message": "Une liste de CSS selecteurs séparés par des virgules pour énumérer les balises img à convertir en formules 'display'"
+    },
+    "LaTeX_NoDelimiters_option_preloadList_title ": {
+        "message": "Liste de préchargement de LaTeXML"
+    },
+    "LaTeX_NoDelimiters_option_preloadList_description ": {
+        "message": "Liste de préchargement par défault passée au serveur LaTeXML."
+    },
+
+    "addRulePanel_dir ": {
+        "message": "ltr"
+    },
+    "addRulePanel_addRule ": {
+        "message": "Ajouter une règle 'Image to MathML'"
+    },
+    "addRulePanel_deleteRule ": {
+        "message": "Supprimer la règle"
+    },
+    "addRulePanel_urlPatternLabel ": {
+        "message": "Motif de l'URL"
+    },
+    "addRulePanel_scriptLabel ": {
+        "message": "Script"
+    },
+    "addRulePanel_Cancel ": {
+        "message": "Annuler"
+    },
+    "addRulePanel_OK ": {
+        "message": "OK"
+    }
+}
